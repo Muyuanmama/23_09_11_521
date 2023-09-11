@@ -14,3 +14,5 @@
     - 'diff --status': shows difference in the staging area
 
 - 'restore --staged <FILE>': unstage staged <FILE>
+
+qwertyuiop
