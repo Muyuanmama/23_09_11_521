@@ -6,4 +6,7 @@
 
 - 'push <WHERE> <WHAT>': pushes the history/commits to the remote (where) using the commits from the specified branch (what)
 
-- 'pull <WHERE> <WHAT>': pulls (updates) 
+- 'pull <WHERE> <WHAT>': pulls (updates) to local to remote
+
+- 'log': shows the log
+
