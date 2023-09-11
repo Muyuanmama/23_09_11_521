@@ -10,3 +10,7 @@
 
 - 'log': shows the log
 
+- 'diff': shows difference between your changes and the last known git state
+    - 'diff --status': shows difference in the staging area
+
+- 'restore --staged <FILE>': unstage staged <FILE>
